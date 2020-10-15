@@ -1,1 +1,1 @@
-# k-uch-gads-2020-project
+k-uch GADS Project Submissions
